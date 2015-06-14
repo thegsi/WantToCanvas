@@ -12,11 +12,11 @@ var game = {
 var styles = {
   colours: {
     sky: '#58A2C4',
-    ground: '#FFFFFF',
+    ground: '#00FF00',
     player1: '#CB461D',
     player2: '#10326F',
     ball1: '#AE1E3B',
-    ball2: '#AE1E3B',
+    ball2: '#FFFFFF',
     explosion: '#F1D432',
     jumpArrow: '#FFFFFF',
     shotArrow: '#AE1E3B'

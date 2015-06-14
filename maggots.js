@@ -153,7 +153,7 @@ function makeCharacter (colour, position, random) {
   var character = {
     health: 100,
     colour: colour,
-    width: 15,
+    width: 30,
     height: 40,
     positionX: position,
     positionRandom: random,
